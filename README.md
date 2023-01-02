@@ -18,6 +18,8 @@ coinciden los campos de Password y Repeat password saldrá un mensaje = completa
 campos.  En caso de que el registro haya sido exitoso el usuario será enviado al login directamente.
 
 ## Proyecto 🚩
+[![Sesi-n.png](https://i.postimg.cc/2S2SrgqW/Sesi-n.png)](https://postimg.cc/DS4TcjPf)
+[![Crea-cuenta.png](https://i.postimg.cc/pd3xdvPm/Crea-cuenta.png)](https://postimg.cc/Mc0gshMw)
 
 #
 # English
@@ -43,3 +45,6 @@ Password fields match and Repeat password will output a message = complete the
 fields. In case the registration has been successful, the user will be sent to the login directly.
 
 ## Project 🚩
+[![Sesi-n.png](https://i.postimg.cc/2S2SrgqW/Sesi-n.png)](https://postimg.cc/DS4TcjPf)
+[![Crea-cuenta.png](https://i.postimg.cc/pd3xdvPm/Crea-cuenta.png)](https://postimg.cc/Mc0gshMw)
+
